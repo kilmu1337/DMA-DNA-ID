@@ -9,10 +9,4 @@ If you don’t know what a burning chip is, just click on the scripts one by one
 >
 > I'm happy to help you. Please cite the source if you share this script.
 
-
-
-
-
-
-
-
+Discord Channel: https://discord.gg/sXeTPJfpaN
