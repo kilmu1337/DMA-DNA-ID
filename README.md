@@ -7,6 +7,6 @@ If you don’t know what a jtag chip is, just click on the scripts one by one.
 
 > [!NOTE]
 >
-> I'm happy to help you. Please cite the source if you share this script.
+> I'm glad this script helped you. If you share this script, please cite the source.
 
 Discord Channel: https://discord.gg/sXeTPJfpaN
