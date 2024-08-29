@@ -9,4 +9,6 @@ If you don’t know what a jtag chip is, just click on the scripts one by one.
 >
 > I'm glad this script helped you. If you share this script, please cite the source.
 
+Website: [https://kilmu.dev/](https://kilmu.dev/)
+
 Discord Channel: https://discord.gg/sXeTPJfpaN
