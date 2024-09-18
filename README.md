@@ -3,8 +3,11 @@ Get the DNA ID of all DMA boards with one click
 
 # How to Use
 1.Connect jtag port to 2nd pc
+
 2.Make sure install the jtag port driver
+
 3.Click the corresponding .bat
+
 If you don’t know what a jtag chip is, just click on the scripts one by one.
 
 > [!NOTE]
