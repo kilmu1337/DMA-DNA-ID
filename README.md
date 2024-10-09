@@ -16,4 +16,4 @@ If you don’t know what a jtag chip is, just click on the scripts one by one.
 
 Website: [https://kilmu.dev/](https://kilmu.dev/)
 
-Discord Channel: https://discord.gg/sXeTPJfpaN
+Discord Channel: https://discord.gg/KilmuDMA
