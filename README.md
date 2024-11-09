@@ -2,7 +2,11 @@
 Get the DNA ID of all DMA boards with one click
 
 # How to Use
-1.Connect jtag port to 2nd pc
+> [!IMPORTANT]
+>
+> All operations are performed on the **Second PC/Radar PC**.
+
+1.Connect jtag port to 2nd pc（The port closest to the gold finger is the JTAG port, while the one farthest from it is the DATA port.）
 
 2.Make sure install the jtag port driver
 
